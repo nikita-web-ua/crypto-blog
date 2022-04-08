@@ -1,0 +1,44 @@
+.editor{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: .5fr 5fr;
+    grid-template-areas:
+        'title .'
+        'input output';
+    gap: 10px;
+    padding: 1rem;
+}
+
+.title {
+    grid-area: title;
+}
+
+.inputBlock{
+    grid-area: input;
+    border: 5px solid black;
+    text-align: center;
+    padding: 1rem;
+}
+
+.inputBlock textarea{
+    width: 100%;
+    min-height: 400px;
+}
+
+.outputBlock{
+    grid-area: output;
+    border: 5px solid black;
+    text-align: center;
+    padding: 1rem;
+}
+
+@media (max-width: 700px){
+    .editor{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+        'title'
+        'input'
+        'output';
+    }
+}
