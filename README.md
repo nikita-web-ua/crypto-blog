@@ -1,5 +1,5 @@
-#Recruitment Task
-##Editor’s prototype for a redactor of a cryptocurrencie’s blog.
+# Recruitment Task
+## Editor’s prototype for a redactor of a cryptocurrencie’s blog.
 
 
 The task is to prepare an example of a text window that will allow you 
@@ -20,5 +20,5 @@ Editor allow the interpretation of two methods: name and price.
 ### `{{Name/BTC}}` => `Bitcoin`
 ### `{{Price/BTC}}` => `43699.68`
 
-##👀 👉 [DEMO](https://nikita-web-ua.github.io/crypto-blog/)
+## 👀 👉 [DEMO](https://nikita-web-ua.github.io/crypto-blog/)
 
