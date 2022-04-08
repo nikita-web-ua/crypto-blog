@@ -16,7 +16,7 @@ Each argument should be formatted in a followed way:
 Editor allow the interpretation of two methods: name and price. 
 
 
-###Examples:
+### Examples:
 ### `{{Name/BTC}}` => `Bitcoin`
 ### `{{Price/BTC}}` => `43699.68`
 
