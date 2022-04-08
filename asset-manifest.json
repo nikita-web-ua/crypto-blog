@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-blog/static/css/main.eab9d732.css",
+    "main.js": "/crypto-blog/static/js/main.aa0be206.js",
+    "static/js/787.fcf87b86.chunk.js": "/crypto-blog/static/js/787.fcf87b86.chunk.js",
+    "index.html": "/crypto-blog/index.html",
+    "main.eab9d732.css.map": "/crypto-blog/static/css/main.eab9d732.css.map",
+    "main.aa0be206.js.map": "/crypto-blog/static/js/main.aa0be206.js.map",
+    "787.fcf87b86.chunk.js.map": "/crypto-blog/static/js/787.fcf87b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab9d732.css",
+    "static/js/main.aa0be206.js"
+  ]
+}
