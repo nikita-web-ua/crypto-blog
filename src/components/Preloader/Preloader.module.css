@@ -1,0 +1,11 @@
+.preloader{
+    position: absolute ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.preloader img{
+    height: 200px;
+    width: 200px;
+}
